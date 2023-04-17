@@ -24,5 +24,5 @@ Enchanté, je m'appelle Valentin, Aspirant ingénieur Systèmes 🐧
 ## 🎯 Soon 
 ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 🌎 Social Networks 
+## 🌎 Social Network 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/st%C3%A9phane-duboze/)](https://www.linkedin.com/in/valentin-montagnon/)
