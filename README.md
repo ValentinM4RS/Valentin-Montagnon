@@ -1,6 +1,6 @@
 # Bonjour !  👋
 
-Enchanté, je m'appelle Valentin, Aspirant ingénieur Systèmes 🐧
+Enchanté, je m'appelle Valentin, je suis étudiant en administration Systèmes 🐧
 
 ## 💻 J'ai des connaissances dans les technologies suivantes  ...
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
