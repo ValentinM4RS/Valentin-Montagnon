@@ -6,6 +6,7 @@ Enchanté, je m'appelle Valentin, je suis étudiant en administration Systèmes 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 </br>
@@ -22,7 +23,6 @@ Enchanté, je m'appelle Valentin, je suis étudiant en administration Systèmes 
 
 
 ## 🎯 Soon 
-![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🌎 Social Network 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/st%C3%A9phane-duboze/)](https://www.linkedin.com/in/valentin-montagnon/)
